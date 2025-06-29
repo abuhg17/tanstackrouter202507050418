@@ -1,7 +1,7 @@
 name = "tanstackrouter202507050418"
 type = "javascript"
 compatibility_date = "2025-06-29"
-main = "src/index.ts"
+main = "src/worker.ts"
 
 [site]
 bucket = "./dist"
